@@ -1,7 +1,8 @@
 package ru.dataart.academy.java;
 
-import java.io.*;
-import java.util.zip.ZipEntry;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.zip.ZipInputStream;
 
 public class Calculator {
